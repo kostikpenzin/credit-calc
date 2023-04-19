@@ -12,7 +12,7 @@ All monetary values in the package are integers and represent the sum with cents
 
 ## Installation
 
-Сomposer: `composer require kostikpenzin/creditСalc`
+Сomposer: `composer require kostikpenzin/credit-calc`
 
 ## Using
 

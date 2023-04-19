@@ -6,7 +6,7 @@ All monetary values in the package are integers and represent the sum with cents
 
 ## Installation
 
-Сomposer: `composer require serganbus/creditСalc`
+Сomposer: `composer require kostikpenzin/creditСalc`
 
 ## Using
 

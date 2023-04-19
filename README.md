@@ -1,10 +1,10 @@
 # Credit Calculator
 
-[![Latest Stable Version](https://poser.pugx.org/kostikpenzin/creditCalc/v/stable)](https://packagist.org/packages/kostikpenzin/creditCalc)
-[![Total Downloads](https://poser.pugx.org/kostikpenzin/creditCalc/downloads)](https://packagist.org/packages/kostikpenzin/creditCalc)
-[![Latest Unstable Version](https://poser.pugx.org/kostikpenzin/creditCalc/v/unstable)](https://packagist.org/packages/kostikpenzin/creditCalc)
-[![License](https://poser.pugx.org/kostikpenzin/creditCalc/license)](https://packagist.org/packages/kostikpenzin/creditCalc)
-[![Monthly Downloads](https://poser.pugx.org/kostikpenzin/creditCalc/d/monthly)](https://packagist.org/packages/kostikpenzin/creditCalc)
+[![Latest Stable Version](https://poser.pugx.org/kostikpenzin/credit-calc/v/stable)](https://packagist.org/packages/kostikpenzin/credit-calc)
+[![Total Downloads](https://poser.pugx.org/kostikpenzin/credit-calc/downloads)](https://packagist.org/packages/kostikpenzin/credit-calc)
+[![Latest Unstable Version](https://poser.pugx.org/kostikpenzin/credit-calc/v/unstable)](https://packagist.org/packages/kostikpenzin/credit-calc)
+[![License](https://poser.pugx.org/kostikpenzin/credit-calc/license)](https://packagist.org/packages/kostikpenzin/credit-calc)
+[![Monthly Downloads](https://poser.pugx.org/kostikpenzin/credit-calc/d/monthly)](https://packagist.org/packages/kostikpenzin/credit-calc)
 
 Calculation of the loan repayment schedule with the possibility of specifying early repayment payments. Both the annuity repayment order and the differentiated one are supported.
 

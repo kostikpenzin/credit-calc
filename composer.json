@@ -1,0 +1,34 @@
+{
+  "name": "kostikpenzin/creditCalc",
+  "description": "Calculator for calculating the loan repayment schedule using annuity/differentiated repayment methods. You can specify partial early repayment, as well as take into account one-time/periodic commissions. The package is easily expanded with our own algorithms for calculating the repayment schedule.",
+  "type": "library",
+  "keywords": [
+    "credit",
+    "calculator",
+    "loan",
+    "annuity payment",
+    "differential payment",
+    "repayment schedule"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Konstantin Penzin",
+      "email": "penzin85@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "CreditCalc\\": "src/"
+    },
+    "files": [
+      "src/helpers.php"
+    ]
+  },
+  "require": {
+    "php": ">=7.4"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^8.3"
+  }
+}

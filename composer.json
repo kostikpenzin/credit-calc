@@ -1,5 +1,5 @@
 {
-  "name": "kostikpenzin/creditCalc",
+  "name": "kostikpenzin/credit-calc",
   "description": "Calculator for calculating the loan repayment schedule using annuity/differentiated repayment methods. You can specify partial early repayment, as well as take into account one-time/periodic commissions. The package is easily expanded with our own algorithms for calculating the repayment schedule.",
   "type": "library",
   "keywords": [

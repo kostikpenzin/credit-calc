@@ -34,7 +34,7 @@ $unexpectedPayments = [
 $calculator = new Calculator;
 
 // we consider the repayment schedule with annuity payments
-// So that there are differentiated payments, we specify Calculator::TYPE_TYPE_DIFFERENT as the third parameter
+// So that there are differentiated payments, we specify Calculator::TYPE_DIFFERENTIAL as the third parameter
 
 /** @var RepaymentSchedule $schedule Payment schedule */
 $schedule = $calculator->calculate($params, $unexpectedPayments, Calculator::TYPE_ANNUITY);
